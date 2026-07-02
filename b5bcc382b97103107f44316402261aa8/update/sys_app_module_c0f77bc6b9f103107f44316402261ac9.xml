@@ -15,7 +15,7 @@
         <name/>
         <order>700</order>
         <override_menu_roles>false</override_menu_roles>
-        <query>system_properties_ui.do?sysparm_title=Loaner Request Properties&amp;sysparm_category=Loaner Request</query>
+        <query/>
         <report/>
         <require_confirmation>true</require_confirmation>
         <roles>x_cdltd_loaner_r_0.admin</roles>
@@ -25,17 +25,17 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>c0f77bc6b9f103107f44316402261ac9</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>Admin Tools</sys_name>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>system_properties_ui.do?sysparm_title=Loaner Request Properties&amp;sysparm_category</sys_name>
         <sys_overrides/>
         <sys_package display_value="Loaner Request" source="x_cdltd_loaner_r_0">b5bcc382b97103107f44316402261aa8</sys_package>
         <sys_policy/>
         <sys_scope display_value="Loaner Request">b5bcc382b97103107f44316402261aa8</sys_scope>
         <sys_update_name>sys_app_module_c0f77bc6b9f103107f44316402261ac9</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-07-02 12:13:17</sys_updated_on>
+        <sys_updated_on>2026-07-02 12:14:23</sys_updated_on>
         <timeline_page/>
-        <title>Admin Tools</title>
+        <title>system_properties_ui.do?sysparm_title=Loaner Request Properties&amp;sysparm_category</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>
