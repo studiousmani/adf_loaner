@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <ignore_cache>true</ignore_cache>
+        <is_private>false</is_private>
+        <name>x_cdltd_loaner_r_0.overdue.leadtimne</name>
+        <read_roles>x_cdltd_loaner_r_0.admin</read_roles>
+        <suffix>overdue.leadtimne</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-07-02 12:10:47</sys_created_on>
+        <sys_id>d3573f86b9f103107f44316402261aa2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_cdltd_loaner_r_0.overdue.leadtimne</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_r_0">b5bcc382b97103107f44316402261aa8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">b5bcc382b97103107f44316402261aa8</sys_scope>
+        <sys_update_name>sys_properties_d3573f86b9f103107f44316402261aa2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-07-02 12:10:47</sys_updated_on>
+        <type>integer</type>
+        <value>24</value>
+        <write_roles>x_cdltd_loaner_r_0.admin</write_roles>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=d3573f86b9f103107f44316402261aa2"/>
+</record_update>
